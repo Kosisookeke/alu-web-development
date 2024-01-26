@@ -1,7 +1,29 @@
-HTML ADVANCED
+# Smile
 
-In this project, I am building from scratch a one-page website from a designer file. The webpage consists of three parts which are the header, the main and the footer. These three parts are inside the BODY of the HTML Skeleton. The header tag will consists of a link element with an image inside and a block of 3 link elements. Under the header, we will have the main elements consisiting of the section element. The section element will contain 2blocks. The first block will have an heading tag, a text element, and a button tag. The second block will have another heading tag, and a block containing 4 different blocks. Each of these 4 blocks will have an image, an heading tag, and a text. After the section element, we will create another section section for the Quote. Inside this quote section, we will have a block whichh consist of an image, and another block which will have a a quote tag, an author quote, and a text. Under the quote section, we will create a new section for the video list. This section will contain an heading tag,and, a block containing of 4 video block which will consist of an inage, an heading, a text, a block for the author(inside this block, we will have aimage , and an heading), and a block for rating(this block will contain block of images (one star = one image), and a text).  After the video list section, we will craete another section called the membership section. Inside the membership section, we will have an heading, a block with inside 4 block item with each block defined (with an image, an heading, and a text), and a button. We will also add a section for the FAQ which will be the last section before the footer. The FAQ section will have a block that contains 2 “row block”, Each “row block” contains 2 “item block”, and each “item block” is composed of an heading, and a text. Outside the main element, we will have the footer. The footer will consist of a global block (used later for centering the footer content), inside this block we will have a  “row block” (with an image, a block that has an image with link), and a text.
-This is the description of the project.
+## Author
+Kosiso Okeke (GitHub: Kosisookeke)
 
-Link to the image of the project to be created: https://drive.google.com/file/d/1oUJCZGWPr19ELC-UvyH3vxcXP4xesHXO/view?usp=sharing
-link to the image of the blueprint of the project: https://drive.google.com/file/d/1I10AwF82kN8e3E5q0nfVw69q320-J1PH/view?usp=sharing
+## Overview
+This repository contains an implementation of a webpage using pure HTML semantic elements. The design is based on the provided designer file without any CSS or styling.
+
+## Design Preview
+![School Page](https://user-images.githubusercontent.com/67793634/192224177-3a136d6d-9c94-426a-8bda-370f44123684.png)
+
+## Getting Started
+Follow these steps to clone the repository and view the webpage using `index.html`.
+
+### Clone Repository
+```bash
+https://github.com/Kosisookeke/alu-web-development.git
+```
+
+### Open Webpage
+1. Navigate to the cloned directory.
+2. Locate the `index.html` file.
+3. Open `index.html` in your preferred web browser.
+
+Now, you can explore the webpage designed using pure HTML semantic elements.
+
+Feel free to reach out to Me, for any questions or feedback.
+
+### Thanks !!!!
